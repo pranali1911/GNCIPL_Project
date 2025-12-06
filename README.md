@@ -14,7 +14,7 @@ Project File: Bank_Loan_Approval Project.ipynb
 Dataset: loan_data.csv
 
 Description:
-Developed a classification model using ML algorithms to predict loan approval status for applicants based on financial and personal parameters.
+Built a machine learning classification model to predict whether a loan application will be approved or rejected. The model uses financial and personal features such as income, credit score, employment experience, loan amount, and past loan history to analyze approval patterns and make predictions.
 
 ## 📌 Week 2 – Mental Health Analysis in IT Sector
 
@@ -23,7 +23,7 @@ Project File: Mental_Health_IT .ipynb
 Dataset: survey.csv
 
 Description:
-Conducted EDA and visualization to understand mental health patterns among IT employees and factors affecting mental well-being.
+Performed exploratory data analysis on a mental health survey of IT professionals by cleaning data, visualizing trends, and identifying key factors influencing treatment-seeking behavior using Python.
 
 ## 📌 Week 3 – Mall Customer Segmentation
 
@@ -32,7 +32,7 @@ Project File: Mall_customer_dataset_week3.ipynb
 Dataset: Mall_Customers.csv
 
 Description:
-Performed customer segmentation using K-Means clustering to analyze shopping patterns and identify target customer groups.
+This project performs customer segmentation using the Mall Customers dataset by applying K-Means clustering on annual income and spending score to identify distinct customer groups for targeted marketing.
 
 ## 📌 Week 4 – Hotel Demand Analysis
 
@@ -41,7 +41,7 @@ Project File: Hotel_demand_week4.ipynb
 Dataset: Row Data.xlsx
 
 Description:
-Explored hotel booking datasets, analyzed booking patterns, seasonal trends, cancellations, and customer categories.
+Performed exploratory data analysis and preprocessing on hotel booking data to analyze booking behavior, cancellations, and seasonal trends. Implemented feature engineering, normalization, PCA, and K-Means clustering to create guest personas and evaluate cluster quality.
 
 ## 📌 Week 5 – Mobile Price Prediction
 
@@ -50,7 +50,7 @@ Project File: Mobile_price_prediction_week5.ipynb
 Dataset: mobile phone price prediction.csv
 
 Description:
-Developed Neural Network–based models (Single Layer Perceptron, Multi-Layer Perceptron, and Artificial Neural Network) to predict mobile phone prices using key features such as RAM, camera quality, storage capacity, and battery power. Implemented these models using TensorFlow/Keras to achieve accurate and reliable price predictions.
+Built a mobile price prediction model using neural networks (SLP, MLP, ANN) with TensorFlow to classify phones as low or high price based on their specifications.
 
 
 # 🛠 Technologies & Tools Used
